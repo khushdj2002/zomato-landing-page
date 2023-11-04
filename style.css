@@ -125,23 +125,4 @@
     .fa-caret-down,.fa-location-dot,.fa-magnifying-glass{
         display: none;
     }
-
-    /* .fa-caret-down{
-        display: flex;
-        position: relative;
-        left: 140px;
-        top:-40px;
-    }
-    .fa-location-dot{
-        display: flex;
-        position: relative;
-        left: -155px;
-        top:40px;
-    } */
-    /* .fa-magnifying-glass{
-        display: flex;
-        position: relative;
-        left: -155px;
-        top:40px;
-    } */
 }
